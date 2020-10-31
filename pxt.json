@@ -1,0 +1,21 @@
+{
+    "name": "chasingtherainbow",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "halotime": "github:talmage/rainbowtimer#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
